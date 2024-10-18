@@ -36,7 +36,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/usb_iso_writer.git
+git clone https://github.com/archieD2/usb_iso_writer.git
 cd usb_iso_writer
 
 Install the required dependencies using pip:
